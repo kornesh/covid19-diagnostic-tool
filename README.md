@@ -2,7 +2,7 @@
 
 ![Identify COVID-19 X-rays](https://i.imgur.com/tA7x6WA.png)
 
-- Automating the process of evaluating CT-scans/X-Rays for clinical diagnosis (or even helping radiologist to evaluate them faster) would allow us to do mass screening and will help us get out of this crisis faster
+- Automating the process of evaluating CT-scans/X-Rays for clinical diagnosis (or even helping radiologists to evaluate them faster) would allow us to do mass screening and will help us get out of this crisis faster
 - This machine learning model achieves 90% ± 5 accuracy in identifying covid19 cases using X-rays. This is merely a preliminary experiment and is *not* suitable for clinical diagnostics due to limited, crowdsourced dataset
 - Inspired by [a study in China](https://www.medrxiv.org/content/10.1101/2020.02.14.20023028v4) which uses CT scans and machine learning to screen patients for covid-19. CT-scans are probably a better option for dataset, since covid-19 symptoms such as pulmonary nodules can be easily seen in a CT scan than X-rays. Unfortunately, this dataset is even more limited.
 - Also, there's [a study](https://pubs.rsna.org/doi/10.1148/radiol.2020200642) that suggests CT scans are better for diagnostics than RT-PCR tests.
