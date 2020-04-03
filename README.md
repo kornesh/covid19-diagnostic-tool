@@ -1,6 +1,6 @@
 # COVID-19 ML Diagnostic tool
 
-![Identify COVID-19 X-rays](https://i.imgur.com/tA7x6WA.png)
+![Identify COVID-19 X-rays](https://i.imgur.com/b6Ek63F.jpg)
 
 - Automating the process of evaluating CT-scans/X-Rays for clinical diagnosis (or even helping radiologists to evaluate them faster) would allow us to do mass screening and will help us get out of this crisis faster
 - This machine learning model achieves 90% ± 5 accuracy in identifying covid19 cases using X-rays. This is merely a preliminary experiment and is *not* suitable for clinical diagnostics due to limited, crowdsourced dataset
